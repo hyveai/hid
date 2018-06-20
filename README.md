@@ -1,1 +1,2 @@
 # hid
+HID code snippets
